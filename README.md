@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" height="150" src="https://s3.ezgif.com/tmp/ezgif-375d5a7be66305.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR2dW14Z3lsZmNjOHprZHB1eWNodzhrcGtpeW9jMjhjaGx0aW50aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxphg3Zp7ZkD0G6Gmv/giphy.gif"  />
 
 🎓 **CSE Graduate | Research Assistant | QA Analyst**  
 💡 Passionate about Machine Learning, AI, and Innovative Human-Computer Interaction  
