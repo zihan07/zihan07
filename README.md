@@ -129,7 +129,7 @@ I am an ambitious graduate of **Computer Science and Engineering** from **North 
 <details>
   <summary>🏆 Best Paper Award – IEMTRONICS 2025</summary>
   - Paper: Bengali Sign Language & Bilingual TTS using ML  
-  ![Award Image](https://yourimageurl.com)
+  ![Award Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMmJuaWRmM3hxcDBjdW1qbHVsZjgyOGhybnppbjltb2V2ZG5qOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9C8iT3mmjM5CCrNhY/giphy.gif)
 </details>
 
 <details>
