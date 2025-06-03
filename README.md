@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zihan07" alt="zihan07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yeasticzihan" target="blank"><img src="https://img.shields.io/twitter/follow/yeasticzihan?logo=twitter&style=for-the-badge" alt="yeasticzihan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/YeasticZihan07" target="blank"><img src="https://img.shields.io/twitter/follow/YeasticZihan07?logo=twitter&style=for-the-badge" alt="YeasticZihan07" /></a> </p>
 
 ---
 
