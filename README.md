@@ -64,16 +64,7 @@ I am an ambitious graduate of **Computer Science and Engineering** from **North 
 
 ## 📚 Education
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/North_South_University_Monogram.svg" width="80" />
-  <img src="https://cambrian.edu.bd/public/images/logo/cambrian.png" width="120" />
-  <img src="https://mgbhs.edu.bd/assets/images/logo/logo.png" width="100" />
-</p>
-
-📘 **North South University** – B.Sc. in Computer Science and Engineering (2020–2024)  
-📊 CGPA: 3.01  
-📘 **Cambrian College** – HSC (2018–2019) | GPA: 4.08  
-📘 **Motijheel Govt. Boys' High School** – SSC (2016–2017) | GPA: 5.00
+<table> <tr> <td> <strong>📘 North South University</strong> – B.Sc. in Computer Science and Engineering (2020–2024)<br> 📊 CGPA: 3.01 </td> <td align="right" width="120"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZobTN2dm16c3FmMDc3MjJtdGxxNnp6dmxsYzVuNnhqMWtzcnNhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JoxT6v3xVdFImxN1aw/giphy.gif" width="60"/> </td> </tr> <tr> <td> <strong>📘 Cambrian College</strong> – HSC (2018–2019)<br> 📊 GPA: 4.08 </td> <td align="right" width="120"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEwOXYyNXZpZXY1c3l2bmVjZGNscWVvZ2pnYjMwemM5OGYzc2ZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jIKk2sASizHWGfqwer/giphy.gif" width="60"/> </td> </tr> <tr> <td> <strong>📘 Motijheel Govt. Boys' High School</strong> – SSC (2016–2017)<br> 📊 GPA: 5.00 </td> <td align="right" width="120"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczlocndjbGxqem14bnpib3hycXZxN2Nremp3cWRkNWI4YnV6Nng4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xyxTRqz01xM5sT1EQG/giphy.gif" width="60"/> </td> </tr> </table>
 
 ---
 
@@ -83,7 +74,7 @@ I am an ambitious graduate of **Computer Science and Engineering** from **North 
 - 🤖 Developed AI models to bridge communication between deaf and hearing individuals  
 - 📜 Published at **IEMTRONICS 2025**  
 - 🏆 **Best Paper (Reviewers' Choice)**  
-  ![Award Image](https://yourimageurl.com)
+  ![Award Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMmJuaWRmM3hxcDBjdW1qbHVsZjgyOGhybnppbjltb2V2ZG5qOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9C8iT3mmjM5CCrNhY/giphy.gif)
 
 🎯 **Deep Learning to Predict Quranic Verse Revelation Periods**  
 - 🔍 Analyzing prophetic biographies using deep learning  
@@ -93,11 +84,32 @@ I am an ambitious graduate of **Computer Science and Engineering** from **North 
 
 ## 💼 Experience
 
-<p align="center">
-  <img src="https://www.northsouth.edu/assets/img/NSU-Logo.png" width="120" />
-  <img src="https://acotebpo.com/wp-content/uploads/2022/03/logo-dark.png" width="120" />
-  <img src="https://mabsj.com/images/logo.png" width="100" />
-</p>
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZobTN2dm16c3FmMDc3MjJtdGxxNnp6dmxsYzVuNnhqMWtzcnNhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JoxT6v3xVdFImxN1aw/giphy.gif" width="120" />
+    </td>
+  </tr>
+   <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRsZno0ODZneHMwcXV4d2E4MW4yYjYzdGN6N3c4Nm5ocHBwaTY1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/roZw56KOxmTMTrElhT/giphy.gif" width="120" />
+    </td>
+  </tr>
+  <!-- Spacer row -->
+  <tr>
+    <td height="50"></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tjOXhtejJkdTFlOXQ5cDJ1NXg4a29nM2N5dzA4a3kyNHlibGxvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcZ9t0tlg0A79iv1Rq/giphy.gif" width="120" />
+    </td>
+  </tr>
+</table>
+
+
 
 ### 🧪 Research Assistant – North South University *(Jan 2025–Present)*  
 - Coding, debugging, data analysis, and weekly advisor meetings  
