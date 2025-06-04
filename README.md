@@ -124,6 +124,14 @@ I am an ambitious graduate of **Computer Science and Engineering** from **North 
 
 ---
 
+## 🌐🏆💼 My CV 🎗️🎖️🧪
+
+![My CV](https://github.com/zihan07/zihan07/blob/main/Yeastic's%20CV-images-0.jpg)
+![My CV](https://github.com/zihan07/zihan07/blob/main/Yeastic's%20CV-images-1.jpg)
+
+---
+
+
 ## 🏆 Awards & Achievements
 
 <details>
